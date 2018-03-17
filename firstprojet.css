@@ -1,0 +1,141 @@
+header{
+  display: flex;
+  background-color: #722972;
+  justify-content: space-between;
+}
+h1{ color: white;
+    margin-left: 250px;
+    font-family: cursive;
+    font-size: xx-large;
+  }
+.a{
+  margin: 5px;
+  border: 2px;
+  color: white;
+  margin-right: 30px;
+}
+.c{
+  margin: 5px;
+  border: 2px;
+  color: white;
+}
+.ligne-item {
+  font-style: italic;
+  font-family: cursive;
+  display: flex;
+  color: white;
+  align-items: center;
+  list-style-type: none;
+ justify-content:flex-end;
+ margin-right: 260px;
+ font-size: x-small;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #888888;
+  padding: 200px;
+  padding-top: 50px;
+}
+.section-intro{
+  background: #aaaaaa;
+  display: flex;
+  justify-content:flex-start;
+  justify-content:center;
+  color: white;
+  font-style: italic;
+  margin-top: 0px;
+  font-family: "Times New Roman";
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.paragraphe{
+font-family: serif;
+font-size : 1.15em;
+padding: 20px;
+padding-top: 20px;}
+.yoyo{
+  border-radius: 50%;
+}
+.clear{
+border: 2px solid #fff;
+}
+.skills{
+font-size : 1.15em;
+}
+h2 {
+  display: flex;
+  justify-content:center;
+  color:#888888;
+  font-family: serif;
+  align-self: center;
+  margin-top: 50px;
+}
+.cleartitre{
+  border: 2px solid #888888;
+  width: 450px;
+}
+.section-plateform {
+  display: flex;
+  flex-flow:row wrap;
+  justify-content:space-around;
+  background-color: #eeeeee;
+  justify-content: center;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.b{
+  width: 250px;
+  height: 150px;
+  padding: 20px;
+}
+
+.lesimages{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:space-between;
+  justify-content: space-around;
+  padding: 20px;}
+
+  .section-content{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  justify-content: center;
+  background-color: #eeeeee;
+  margin-right: 50px;
+ margin-left: 50px;
+}
+.form-parag{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+padding: 40px;
+background-color: #eeeeee;
+}
+.form{
+  display: flex;
+  flex-direction:column;
+  justify-content:space-between;
+}
+.input{
+  background-color: #eeeeee;
+  border: none;
+  border-bottom: 1px solid #757575;
+  padding-bottom: 20px;
+  font-weight: lighter;
+  font-size: 30px;
+}
+.inputsend{
+  background-color: #eeeeee;
+  margin-right: 350px;
+  font-style: oblique;
+  margin-top: 20px;
+}
+.fromparagraphe{
+  font-family: "Times New Roman";
+  font-weight: bold;
+  color: #757575;
+}
